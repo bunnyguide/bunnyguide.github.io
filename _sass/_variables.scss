@@ -1,14 +1,14 @@
 // Base Colors
 $primary-color: #9EF75B;
 $secondary-color: #000000;
-$complimentary-color: #EEEEEE;
+$complimentary-color: #DDDDDD;
 $body-bg: #fdfdfd;
 $body-font-color: #222;
 
 // Links
 $link-color: lighten($body-font-color, 25%);
 $link-hover-color: $body-font-color;
-$link-visited-color: darken($complimentary-color, 25%);
+$link-visited-color: darken($link-color, 25%);
 
 // Text
 $base-font-family: Helvetica, Arial, sans-serif;
