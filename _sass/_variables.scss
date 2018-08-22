@@ -20,8 +20,8 @@ $base-line-height: 1.5;
 // Primary Navbar Settings
 $navbar-height: 44px;
 $navbar-color: $primary-color;
-$navbar-text-color: $secondary-color;
-$navbar-hover-color: $complimentary-color;
+$navbar-text-color: lighten($body-font-color, 25%);
+$navbar-hover-color: darken($link-color, 25%);
 $navbar-active-color: darken($primary-color, 30%);
 $navbar-font-size: 13px;
 $navbar-font-family: "Open Sans", Helvetica, Arial, sans-serif;
