@@ -1,14 +1,12 @@
 # Site settings
 name: Bunny Pet Guide
-#email: 
-#author: Chrisanthropic
 
 keywords: jekyll, jekyll theme, jekyll framework, stuffthings
 description: Witty description here.
 
 # Only use this if you are serving your site via Github Pages
 github:
-  url: "https://chrisanthropic.github.io/slim-pickins-jekyll-theme"
+  url: "https://bunnyguide.github.io/"
 
 header: yes
 header_sm: images/banner-small.jpg
