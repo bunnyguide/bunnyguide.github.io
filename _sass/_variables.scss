@@ -1,12 +1,12 @@
 // Base Colors
 $primary-color: #98E690;
-$secondary-color: #222;
+$secondary-color: #DFA995;
 $complimentary-color: #222;
 $body-bg: #fdfdfd;
 $body-font-color: #222;
 
 // Links
-$link-color: lighten($body-font-color, 25%);
+$link-color: lighten($secondary-color, 25%);
 $link-hover-color: $body-font-color;
 $link-visited-color: darken($link-color, 25%);
 
