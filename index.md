@@ -15,6 +15,7 @@ There are three main components to a domestic bunny's diet: Hay, pellets, and fr
 ### Litter
 <iframe style="width:120px;height:240px;float:right;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=tblanchard-20&language=en_US&marketplace=amazon&region=US&placement=B00OP6SVJW&asins=B00OP6SVJW&linkId=ffb740351d60504a8a84cdb11d2f7cd1&show_border=false&link_opens_in_new_window=true"></iframe>
 
+|---
 | One of the great features of having bunnies as pets is that they are so easy to litter train. They will naturally just start using a litter box if it is left in their space (though young ones may take a little while, they will learn this eventually). However, there are two issues you need to consider when figuring out what your bunny's litter situation will be. | <button class="button">Hover Over Me</button> |
 |-|-|
 
