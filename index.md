@@ -20,6 +20,8 @@ There are three main components to a domestic bunny's diet: Hay, pellets, and fr
 
 You can get a water bottle or a water dish for your bunny. With all the fluff and hay floating around in their living space, I think a water bottle is the cleaner and safer option.
 
+<a href="http://google.com" class="button">Go to Google</a>
+
 ### Pet carrier
 
 Of course, you need some way of bringing your new friend home, and some way of transporting them when you need to bring them to the vet. A simple small dog or cat carrier will do the job. Put in some soft towels, and some hay for them to snack on and you're ready to go.
