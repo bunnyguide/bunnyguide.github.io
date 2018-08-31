@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Bunny Starter Page
+title: First Bunny Starter Guide
 ---
 
 Getting a new pet bunny is an exciting event, but before you bring your new furry friend home, you should make sure you have everything you need to make them comfortable and happy.
