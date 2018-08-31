@@ -50,6 +50,7 @@ table {
 
 table td + td{  /* this will go to the 2nd column of a table directly */
 
-width:20%
+  width:20%;
+  text-align: center;
 
 }
