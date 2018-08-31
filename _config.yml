@@ -6,7 +6,7 @@ description: Witty description here.
 
 # Only use this if you are serving your site via Github Pages
 github:
-  url: "https://bunnyguide.github.io/"
+  url: "https://bunnyguide.github.io"
 
 header: yes
 header_sm: images/banner-small.jpg
