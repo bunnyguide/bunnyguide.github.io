@@ -9,7 +9,7 @@ Getting a new pet bunny is an exciting event, but before you bring your new furr
 
 ### Food
 
-There are three main components to a domestic bunny's diet: Hay, pellets, and fresh greens/vegetables. If your new bunny is less than six months old, it's too early to introduce the fresh part of their diet, and all you'll need is hay and pellets. 
+There are three main components to a domestic bunny's diet: Hay, pellets, and fresh greens/vegetables. If your new bunny is less than six months old, it's too early to introduce the fresh part of their diet, and all you'll need is hay and pellets. For more information about what food you need for a rabbit who is more than six months old, or how to transition a rabbit from their juvenile diet to their adult diet, see the diet page.
 
 <table>
   <tr>
@@ -21,11 +21,6 @@ There are three main components to a domestic bunny's diet: Hay, pellets, and fr
     <td>Alfalfa Hay<a href="https://www.amazon.com/Viking-Farmer-Alfalfa-Rabbits-Small/dp/B07DV6JK4R/ref=as_li_ss_il?s=pet-supplies&ie=UTF8&qid=1536505620&sr=1-10&keywords=alfalfa+hay&linkCode=li2&tag=tblanchard-20&linkId=935ef3b4acf974afca1dc8a7e70dc42e&language=en_US" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B07DV6JK4R&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=tblanchard-20&language=en_US" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=tblanchard-20&language=en_US&l=li2&o=1&a=B07DV6JK4R" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /><a href="https://amzn.to/2QfpMj0" class="button">Find on Amazon</a> </td>
   </tr>
 </table>
-  
-
-
-See the bunny diet page for information on the food you need for your new pet.
-
 
 ### Litter
 
