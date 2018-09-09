@@ -49,8 +49,12 @@ table {
   padding: 0;
   border: none;}
 
+td{
+  padding-right: 15px;
+  
+}
 
-table td + td{  /* this will go to the 2nd column of a table directly */
+table td + td{  /* this will go to the 2nd column of a table */
     width: 20%;
     text-align: center;
     border: 7px solid #98E690;
