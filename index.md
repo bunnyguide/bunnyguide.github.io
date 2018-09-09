@@ -9,15 +9,15 @@ Getting a new pet bunny is an exciting event, but before you bring your new furr
 
 ### Food
 
-There are three main components to a domestic bunny's diet: Hay, pellets, and fresh greens/vegetables. If your new bunny is less than six months old, it's too early to introduce the fresh part of their diet, and all you'll need is alfalfa hay and pellets. 
+There are three main components to a domestic bunny's diet: Hay, pellets, and fresh greens/vegetables. If your new bunny is less than six months old, it's too early to introduce the fresh part of their diet, and all you'll need is hay and pellets. 
 
 <table>
   <tr>
-    <td></td>
+    <td>Pellets are the highest calorie part of a rabbits diet. They are formulated to have everything that a rabbit needs nutritionally. There are different pellets formulated for young rabbits who are less than six months old, and adult rabbits. The young rabbit pellets are higher calorie and have more nutrients that a bunny needs as they grow. Rabbits should have unlimited access to as many pellets as they want until they are six months old. Once your rabbit is six months old, you should start transitioning your rabbit to the adult pellets and limit their pellet intake to about half a cup per 6 lbs body weight of the rabbit. For more information about this transition, see the diet page.</td>
     <td>Young Rabbit Pellets<a href="https://www.amazon.com/Oxbow-Essentials-Bunny-Basics-Alfalfa/dp/B00494HWUE/ref=as_li_ss_il?ie=UTF8&linkCode=li2&tag=tblanchard-20&linkId=af84ab26e0deadcb090ce02254afb79f&language=en_US" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00494HWUE&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=tblanchard-20&language=en_US" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=tblanchard-20&language=en_US&l=li2&o=1&a=B00494HWUE" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /><a href="https://amzn.to/2x5UBhF" class="button">Find on Amazon</a> </td>
   </tr>
   <tr>
-    <td></td>
+    <td>Hay is an incredibly important part of a rabbits diet. For their entire lives, they should have unlimited access to hay. The fiber and hay keeps their digestive system flowing, and avoids G.I. stasis, a common and very serious issue in bunnies. Young rabbits less than six months old should have alfalfa hay, though you can also introduce them to other types of grass hay such as Timothy or Orchard grass. Older rabbits should not have alfalfa hay, but can have any other type of hay. For more information, check out the diet page or the hay page.</td>
     <td>Alfalfa Hay<a href="https://www.amazon.com/Viking-Farmer-Alfalfa-Rabbits-Small/dp/B07DV6JK4R/ref=as_li_ss_il?s=pet-supplies&ie=UTF8&qid=1536505620&sr=1-10&keywords=alfalfa+hay&linkCode=li2&tag=tblanchard-20&linkId=935ef3b4acf974afca1dc8a7e70dc42e&language=en_US" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B07DV6JK4R&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=tblanchard-20&language=en_US" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=tblanchard-20&language=en_US&l=li2&o=1&a=B07DV6JK4R" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /><a href="https://amzn.to/2QfpMj0" class="button">Find on Amazon</a> </td>
   </tr>
 </table>
