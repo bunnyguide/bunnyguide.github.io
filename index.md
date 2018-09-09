@@ -3,13 +3,28 @@ layout: page
 title: First Bunny Starter Guide
 ---
 
-Getting a new pet bunny is an exciting event, but before you bring your new furry friend home, you should make sure you have everything you need to make them comfortable and happy.
+Getting a new pet bunny is an exciting event, but before you bring your new furry friend home, you should make sure you have everything you need to make them comfortable and happy. This page gives you the essentials you should make sure you have immediately, as well as some additional items you won't want to go long without.
 
 ## The Immediate Necessities
 
 ### Food
 
-There are three main components to a domestic bunny's diet: Hay, pellets, and fresh greens/vegetables. If your new bunny is less than six months old, it's too early to introduce the fresh part of their diet, and all you'll need is alfalfa hay and pellets. See the bunny diet page for information on the food you need for your new pet.
+There are three main components to a domestic bunny's diet: Hay, pellets, and fresh greens/vegetables. If your new bunny is less than six months old, it's too early to introduce the fresh part of their diet, and all you'll need is alfalfa hay and pellets. 
+
+<table>
+  <tr>
+    <td></td>
+    <td></td><a href="https://www.amazon.com/Oxbow-Animal-Health-Essentials-Alfalfa/dp/B003SLQIK4/ref=as_li_ss_il?s=pet-supplies&ie=UTF8&qid=1536505030&sr=1-4&keywords=oxbow+rabbit+food&dpID=51Q5gCQzgTL&preST=_SY300_QL70_&dpSrc=srch&linkCode=li2&tag=tblanchard-20&linkId=b507f32d46198204b6d202c0b16b0236&language=en_US" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B003SLQIK4&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=tblanchard-20&language=en_US" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=tblanchard-20&language=en_US&l=li2&o=1&a=B003SLQIK4" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /><a href="https://amzn.to/2wVStZK" class="button">Find on Amazon</a> </td>
+  </tr>
+  <tr>
+    <td></td>
+    <td><a href="https://www.amazon.com/Viking-Farmer-Alfalfa-Rabbits-Small/dp/B07DV6JK4R/ref=as_li_ss_il?s=pet-supplies&ie=UTF8&qid=1536505620&sr=1-10&keywords=alfalfa+hay&linkCode=li2&tag=tblanchard-20&linkId=935ef3b4acf974afca1dc8a7e70dc42e&language=en_US" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B07DV6JK4R&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=tblanchard-20&language=en_US" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=tblanchard-20&language=en_US&l=li2&o=1&a=B07DV6JK4R" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /><a href="https://amzn.to/2QfpMj0" class="button">Find on Amazon</a> </td>
+  </tr>
+</table>
+  
+
+
+See the bunny diet page for information on the food you need for your new pet.
 
 
 ### Litter
