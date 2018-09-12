@@ -2,11 +2,8 @@
 layout: page
 title: First Bunny Starter Guide
 ---
-
-Getting a new pet bunny is an exciting event, but before you bring your new furry friend home, you should make sure you have everything you need to make them comfortable and happy. This page gives you the essentials you should make sure you have immediately, as well as some additional items you won't want to go long without.
-
 <div id="toc_container">
-<p class="toc_title">Contents</p>
+<p class="toc_title">First Bunny Checklist</p>
 <ul class="toc_list">
   <li><a href="#First_Point_Header">1 First Point Header</a>
   <ul>
@@ -18,6 +15,10 @@ Getting a new pet bunny is an exciting event, but before you bring your new furr
 <li><a href="#Third_Point_Header">3 Third Point Header</a></li>
 </ul>
 </div>
+
+Getting a new pet bunny is an exciting event, but before you bring your new furry friend home, you should make sure you have everything you need to make them comfortable and happy. This page gives you the essentials you should make sure you have immediately, as well as some additional items you won't want to go long without.
+
+
 
 ## The Immediate Necessities
 
