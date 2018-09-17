@@ -82,3 +82,8 @@ table td + td{  /* this will go to the 2nd column of a table */
 #toc_container li, #toc_container ul, #toc_container ul li{
     list-style: outside none none !important;
 }
+
+h1 {
+   text-align: center;
+   clear: both;
+}
