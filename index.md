@@ -37,7 +37,6 @@ There are three main components to a domestic bunny's diet: Hay, pellets, and fr
 
 ## Litter
 
-
 <table>
   <tr>
     <td>One of the great features of having bunnies as pets is that they are so easy to litter train. They will naturally just start using a litter box if it is left in their space (though young ones may take a little while, they will learn this eventually). While you can use any size appropriate cat litter box for your rabbit, one of the major issues that people often run into having rabbits as pets is how messy they can be, flinging their hay and poops everywhere as they jump out of their litter box. To cut down on this considerably, consider getting a litter box with a lip on it. This will make your life much easier, keep your place looking much cleaner, and cut down on all of the sweeping up you'll have to do.</td>
@@ -45,12 +44,9 @@ There are three main components to a domestic bunny's diet: Hay, pellets, and fr
   </tr>
 </table>
 
-
 ## Water bottle
 
 You can get a water bottle or a water dish for your bunny. With all the fluff and hay floating around in their living space, I think a water bottle is the cleaner and safer option.
-
-
 
 ## Pet carrier
 
@@ -60,9 +56,9 @@ Of course, you need some way of bringing your new friend home, and some way of t
 
 Housing a bunny is a little bit different than housing a dog or a cat. They need space to run around, but you may not want to give them free reign of your home since they can chew on wires and wood paneling/furniture.
 
-One option is to keep them in a large cage when they are unsupervised. Large dog crates work great for this. To give your bun more space to run around, you can also get an exercise pen (or the excercise pen can be their normal enclosure if you have the space to always have it set up). Others choose to keep their bunny outdoors in a hutch.
+One option is to keep them in a large cage when they are unsupervised. Large dog crates work great for this. Others choose to keep their bunny outdoors in a hutch. You can read more about options on the housing page.
 
-You can read more about options on the housing page.
+Exercise pens are great and can be used instead of a cage as a primary indoor living space for bunnies. You can also use them indoors or outdoors as easily transported play areas for your pet in areas where you don't want them roaming free. You can even line up the doors of their cage and exercise pen to give them more room to hang out in without giving them complete free reign.
 
 # Other accessories
 
@@ -76,14 +72,15 @@ You'll need to trim your bunny's nails every month or so. When the bunny's nails
 
 Bunnies go through shedding cycles, so you'll need a good grooming brush. In my experience, the Furminator works best. Though made for cats, the Furminator works great for any fur, including the finer fur of certain breeds (like Holland Lops) that other brushes often aren't very effective on.
 
-hiding tunnel
+## Hidey Hole
 
+Bunnies like to have something to hide in. It's nice to have some kind of small safe place for them to hide in when they're feeling scared. Tropical Fiddle Sticks work well for this, especially for young, small bunnies. You can also try cardboard boxes with holes in them, though mine have never seemed comfortable hiding in those. For other ideas you can see the toys page.
 
-toys
+## Toys
 
-Applewood
+Speaking of toys, you should make sure you have something for your bunnies to play with. There are a bunch of potential options, for young bunnies it's nice to get them something that they can play with and also chew on. Every bunny is a little bit different, but mine love this small barrel roller, which they chew on, roll around, and pick up and toss. It makes a good starter toy. For other ideas on entertainment for your pet, check out the toys page.
 
-hayrack
+https://amzn.to/2OuuisH
 
 book
 
