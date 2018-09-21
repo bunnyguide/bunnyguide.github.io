@@ -82,7 +82,17 @@ Speaking of toys, you should make sure you have something for your bunnies to pl
 
 https://amzn.to/2OuuisH
 
-book
 
-rabbit proofing
-rug
+## Tubing for Rabbit Proofing Wires
+
+Many rabbits seem to think wires are designed to be a tasty treat for them. The best way to protect your wires is to make it so your rabbits are unable to get to them. Failing that, one thing you can do is get plastic tubing to run your wires through to offer them protection. 3/8" thick tubing is wide enough to fit pretty much any wire in it, while not being too wide to be unwieldy.
+https://www.amazon.com/gp/product/B01N677VYC/ref=oh_aui_search_detailpage?ie=UTF8&psc=1
+
+## Area Rug
+
+Most bunnies don't like hardwood or laminate floor, and will either avoided or be unable to hop and play on it. If you have carpeted, unfortunately rabbits can sometimes tear it up or work hay deep into it that you'll never get out. So it's nice to have an area rug over the area you expect your bunnies to plan. These work great with xpens that you can just put on top of the carpet. I suggest you get a pretty cheap one, so that it's not a big deal if your rabbit quickly ruins it.
+https://www.amazon.com/gp/product/B077711MFH/ref=oh_aui_search_detailpage?ie=UTF8&psc=1
+
+## Book
+
+Finally, it's always good to know as much as possible about how to take care of your pet. There are a lot of good resources around for learning about how to take care of a domestic rabbit. Reading a book is a good way to get all of your information in one place, so youget a complete picture of how to take care of your new pet.
