@@ -50,22 +50,31 @@ There are three main components to a domestic bunny's diet: Hay, pellets, and fr
   <tr>
     <td>You can get a water bottle or a water dish for your bunny. With all the fluff and hay floating around in their living space, I think a water bottle is the cleaner and safer option. Make sure to get a relatively large one, since rabbits drink a fair amount. 64-ounces is a good amount.</td>
     <td><a href="https://www.amazon.com/Lixit-Corporation-SLX0670-Weather-64-Ounce/dp/B0050ICKN2/ref=as_li_ss_il?th=1&linkCode=li2&tag=tblanchard-20&linkId=a8f3eb157ca41157f18bef4ac7116ac3&language=en_US" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B0050ICKN2&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=tblanchard-20&language=en_US" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=tblanchard-20&language=en_US&l=li2&o=1&a=B0050ICKN2" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /><a href="https://amzn.to/2qZseyQ" class="button">Find on Amazon</a> </td>
+  </tr>
+  </table>
 
 ## Pet carrier
 
-Of course, you need some way of bringing your new friend home, and some way of transporting them when you need to bring them to the vet. A simple small dog or cat carrier will do the job. It's actually better if it's a fairly small carrier without much space for your rabbit to move around. This is just to keep them from moving around too much and hurting themselves while in transport. Don't worry! Your rabbit will only be in there temporarily so it's fine if they  can't move around much (as long as they can at least turn around in it). The other feature you should look for is a carrier that the rabbit won't be able to see too much out of. Being able to see that there high up might frighten them. I normally cover the carrier in a blanket when transporting my rabbits. Put in some soft towels, and some hay for them to snack on and you're ready to go.
-
-https://amzn.to/2TGGo4S
+<table>
+  <tr>
+    <td>Of course, you need some way of bringing your new friend home, and some way of transporting them when you need to bring them to the vet. A simple small dog or cat carrier will do the job. It's actually better if it's a fairly small carrier without much space for your rabbit to move around. This is just to keep them from moving around too much and hurting themselves while in transport. Don't worry! Your rabbit will only be in there temporarily so it's fine if they  can't move around much (as long as they can at least turn around in it). The other feature you should look for is a carrier that the rabbit won't be able to see too much out of. Being able to see that there high up might frighten them. I normally cover the carrier in a blanket when transporting my rabbits. Put in some soft towels, and some hay for them to snack on and you're ready to go.</td>
+    <td><a href="https://www.amazon.com/Midwest-Homes-Pets-Plastic-Carrier/dp/B00L72PG54/ref=as_li_ss_il?ie=UTF8&qid=1543008836&sr=8-1&keywords=MidWest+Skudo+Standard+Plastic+Pet+Carrier&th=1&linkCode=li2&tag=tblanchard-20&linkId=bdec0f9e4e60e532afdae204c705136b&language=en_US" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00L72PG54&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=tblanchard-20&language=en_US" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=tblanchard-20&language=en_US&l=li2&o=1&a=B00L72PG54" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /><a href="https://amzn.to/2TGGo4S" class="button">Find on Amazon</a> </td>
+  </tr>
+  </table>
 
 ## Housing
 
-Housing a bunny is a little bit different than housing a dog or a cat. They need space to run around, but you may not want to give them free reign of your home since they can chew on wires and wood paneling/furniture.
+<table>
+  <tr>
+    <td>Housing a bunny is a little bit different than housing a dog or a cat. They need space to run around, but you may not want to give them free reign of your home since they can chew on wires and wood paneling/furniture.
 
 One option is to keep them in a large cage when they are unsupervised. Large dog crates work great for this. Others choose to keep their bunny outdoors in a hutch. You can read more about options on the housing page.
 
-Exercise pens are great and can be used instead of a cage as a primary indoor living space for bunnies. You can also use them indoors or outdoors as easily transported play areas for your pet in areas where you don't want them roaming free. You can even line up the doors of their cage and exercise pen to give them more room to hang out in without giving them complete free reign. They're foldable and easy to move, making them very versatile. Make sure they're tall enough though, rabbits can hop over them if they're too short!
+Exercise pens are great and can be used instead of a cage as a primary indoor living space for bunnies. You can also use them indoors or outdoors as easily transported play areas for your pet in areas where you don't want them roaming free. You can even line up the doors of their cage and exercise pen to give them more room to hang out in without giving them complete free reign. They're foldable and easy to move, making them very versatile. Make sure they're tall enough though, rabbits can hop over them if they're too short!</td>
+<td><a href="https://www.amazon.com/gp/product/B002908DX0/ref=as_li_ss_il?ie=UTF8&psc=1&linkCode=li2&tag=tblanchard-20&linkId=f6532ab0372850ebfebc254a85c2b814&language=en_US" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B002908DX0&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=tblanchard-20&language=en_US" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=tblanchard-20&language=en_US&l=li2&o=1&a=B002908DX0" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /><a href="https://amzn.to/2TC2Wnu" class="button">Find on Amazon</a> </td>
+</tr>
+</table>
 
-https://amzn.to/2TC2Wnu
 
 # Other accessories
 
@@ -73,40 +82,64 @@ The following items are things that you might not need immediately, but are good
 
 ## Nail trimmers
 
-You'll need to trim your bunny's nails every month or so. When the bunny's nails get too long they can get caught on things or even curl back in and cause pain to the bunny. You can clip nails relatively easily if you have the right clippers. I like these ones, they have a guard that will keep you from accidentally cutting off too much of the nail, making it much less stressful for both you and your bunny.
-
-https://amzn.to/2KtGid1
+<table>
+  <tr>
+    <td>You'll need to trim your bunny's nails every month or so. When the bunny's nails get too long they can get caught on things or even curl back in and cause pain to the bunny. You can clip nails relatively easily if you have the right clippers. I like these ones, they have a guard that will keep you from accidentally cutting off too much of the nail, making it much less stressful for both you and your bunny.</td>
+    <td>
+      <a href="https://www.amazon.com/gp/product/B0002RJM8C/ref=as_li_ss_il?ie=UTF8&psc=1&linkCode=li2&tag=tblanchard-20&linkId=b5741f1d8259b87e2d93a0e918f63235&language=en_US" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B0002RJM8C&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=tblanchard-20&language=en_US" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=tblanchard-20&language=en_US&l=li2&o=1&a=B0002RJM8C" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /><a href="https://amzn.to/2KtGid1" class="button">Find on Amazon</a> </td>
 
 ## Grooming Brush
 
-Bunnies go through shedding cycles, so you'll need a good grooming brush. In my experience, the Furminator works best. Though made for cats, the Furminator works great for any fur, including the finer fur of certain breeds (like Holland Lops) that other brushes often aren't very effective on.
-
-https://amzn.to/2TCmHvb
+<table>
+  <tr>
+    <td>Bunnies go through shedding cycles, so you'll need a good grooming brush. In my experience, the Furminator works best. Though made for cats, the Furminator works great for any fur, including the finer fur of certain breeds (like Holland Lops) that other brushes often aren't very effective on.</td>
+    <td><a href="https://www.amazon.com/FURminator-Long-Hair-deShedding-Large/dp/B0040QS3PO/ref=as_li_ss_il?s=pet-supplies&ie=UTF8&qid=1543009128&sr=1-4&keywords=furminator&linkCode=li2&tag=tblanchard-20&linkId=4ff210788ab6c8a9d6caf8136596ea71&language=en_US" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B0040QS3PO&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=tblanchard-20&language=en_US" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=tblanchard-20&language=en_US&l=li2&o=1&a=B0040QS3PO" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /><a href="https://amzn.to/2TCmHvb" class="button">Find on Amazon</a> </td>
+  </tr>
+  </table>
 
 ## Hidey Hole
 
-Bunnies like to have something to hide in. It's nice to have some kind of small safe place for them to hide in when they're feeling scared. Tropical Fiddle Sticks work well for this, especially for young, small bunnies. You can also try cardboard boxes with holes in them, though mine have never seemed comfortable hiding in those. For other ideas you can see the toys page.
+<table>
+  <tr>
+    <td>Bunnies like to have something to hide in. It's nice to have some kind of small safe place for them to hide in when they're feeling scared. Tropical Fiddle Sticks work well for this, especially for young, small bunnies. You can also try cardboard boxes with holes in them, though mine have never seemed comfortable hiding in those. For other ideas you can see the toys page.</td>
 
-https://amzn.to/2P3YbzO
+<td><a href="https://www.amazon.com/gp/product/B000HHO26E/ref=as_li_ss_il?ie=UTF8&psc=1&linkCode=li2&tag=tblanchard-20&linkId=ad9e2f810a0c57c37529b5c10b418928&language=en_US" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B000HHO26E&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=tblanchard-20&language=en_US" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=tblanchard-20&language=en_US&l=li2&o=1&a=B000HHO26E" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /><a href="https://amzn.to/2P3YbzO" class="button">Find on Amazon</a> </td>
+  </tr>
+  </table>
 
 ## Toys
 
-Speaking of toys, you should make sure you have something for your bunnies to play with. There are a bunch of potential options, for young bunnies it's nice to get them something that they can play with and also chew on. Every bunny is a little bit different, but mine love this small barrel roller, which they chew on, roll around, and pick up and toss. It makes a good starter toy. For other ideas on entertainment for your pet, check out the toys page.
-
-https://amzn.to/2OuuisH
-
+<table>
+  <tr>
+    <td>Speaking of toys, you should make sure you have something for your bunnies to play with. There are a bunch of potential options, for young bunnies it's nice to get them something that they can play with and also chew on. Every bunny is a little bit different, but mine love this small barrel roller, which they chew on, roll around, and pick up and toss. It makes a good starter toy. For other ideas on entertainment for your pet, check out the toys page.</td>
+<td><a href="https://www.amazon.com/WARE-BIRD-SM-Barrel-Roller/dp/B00DS36J4M/ref=as_li_ss_il?_encoding=UTF8&pd_rd_i=B00DS36J4M&pd_rd_r=EDEQCYT87TX490D4WS5N&pd_rd_w=vHayg&pd_rd_wg=ORzmP&pf_rd_i=nav-high-confidence-slot&pf_rd_m=ATVPDKIKX0DER&pf_rd_p=1f389e35-a4a8-4fe9-bcb3-352102c5df87&pf_rd_r=EDEQCYT87TX490D4WS5N&pf_rd_s=nav-high-confidence-slot&pf_rd_t=40701&psc=1&refRID=EDEQCYT87TX490D4WS5N&linkCode=li2&tag=tblanchard-20&linkId=3f1c6e2c1c6515e673b9934aa76ef3df&language=en_US" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00DS36J4M&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=tblanchard-20&language=en_US" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=tblanchard-20&language=en_US&l=li2&o=1&a=B00DS36J4M" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /><a href="https://amzn.to/2OuuisH" class="button">Find on Amazon</a> </td>
+      </tr>
+  </table>
 
 ## Tubing for Rabbit Proofing Wires
 
-Many rabbits seem to think wires are designed to be a tasty treat for them. The best way to protect your wires is to make it so your rabbits are unable to get to them. Failing that, one thing you can do is get plastic tubing to run your wires through to offer them protection. 3/8" thick tubing is wide enough to fit pretty much any wire in it, while not being too wide to be unwieldy.
-https://amzn.to/2DFu27H
+<table>
+  <tr>
+    <td>Many rabbits seem to think wires are designed to be a tasty treat for them. The best way to protect your wires is to make it so your rabbits are unable to get to them. Failing that, one thing you can do is get plastic tubing to run your wires through to offer them protection. 3/8" thick tubing is wide enough to fit pretty much any wire in it, while not being too wide to be unwieldy.</td>
+    <td><a href="https://www.amazon.com/gp/product/B01N677VYC/ref=as_li_ss_il?ie=UTF8&psc=1&linkCode=li2&tag=tblanchard-20&linkId=6caf55643616e38ba5f48d9b21cbce39&language=en_US" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B01N677VYC&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=tblanchard-20&language=en_US" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=tblanchard-20&language=en_US&l=li2&o=1&a=B01N677VYC" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /><a href="https://amzn.to/2DFu27H" class="button">Find on Amazon</a> </td>
+      </tr>
+  </table>
 
 ## Area Rug
 
-Most bunnies don't like hardwood or laminate floor, and will either avoided or be unable to hop and play on it. If you have carpeted, unfortunately rabbits can sometimes tear it up or work hay deep into it that you'll never get out. So it's nice to have an area rug over the area you expect your bunnies to plan. These work great with xpens that you can just put on top of the carpet. I suggest you get a pretty cheap one, so that it's not a big deal if your rabbit quickly ruins it.
+<table>
+  <tr>
+    <td>Most bunnies don't like hardwood or laminate floor, and will either avoided or be unable to hop and play on it. If you have carpeted, unfortunately rabbits can sometimes tear it up or work hay deep into it that you'll never get out. So it's nice to have an area rug over the area you expect your bunnies to plan. These work great with xpens that you can just put on top of the carpet. I suggest you get a pretty cheap one, so that it's not a big deal if your rabbit quickly ruins it.</td>
+<td><a href="https://www.amazon.com/gp/product/B077711MFH/ref=as_li_ss_il?ie=UTF8&psc=1&linkCode=li2&tag=tblanchard-20&linkId=8c6dac5c01c04ee905eca96cf5317bb5&language=en_US" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B077711MFH&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=tblanchard-20&language=en_US" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=tblanchard-20&language=en_US&l=li2&o=1&a=B077711MFH" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /><a href="https://amzn.to/2TEnR9l" class="button">Find on Amazon</a> </td>
+      </tr>
+  </table>
 
-https://amzn.to/2TEnR9l
 
 ## Book
 
-Finally, it's always good to know as much as possible about how to take care of your pet. There are a lot of good resources around for learning about how to take care of a domestic rabbit. Reading a book is a good way to get all of your information in one place, so youget a complete picture of how to take care of your new pet.
+<table>
+  <tr>
+    <td>Finally, it's always good to know as much as possible about how to take care of your pet. There are a lot of good resources around for learning about how to take care of a domestic rabbit. Reading a book is a good way to get all of your information in one place, so you get a complete picture of how to take care of your new pet.</td>
+    <td><a href="https://www.amazon.com/Everything-Pet-Rabbit-Handbook-Ownership/dp/1495488594/ref=as_li_ss_il?ie=UTF8&linkCode=li2&tag=tblanchard-20&linkId=2d439e36cdcb964d3b46109c1a1e3f9a&language=en_US" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=1495488594&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=tblanchard-20&language=en_US" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=tblanchard-20&language=en_US&l=li2&o=1&a=1495488594" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /><a href="https://amzn.to/2TFvooK" class="button">Find on Amazon</a> </td>
+      </tr>
+  </table>
