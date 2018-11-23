@@ -9,11 +9,22 @@ title: First Bunny Starter Guide
   <ul>
     <li><a href="#food">1.1 Food</a></li>
     <li><a href="#litter">1.2 Litter</a></li>
-    <li><a href="#water">1.3 Water Bottle</a></li>
+    <li><a href="#water-bottle">1.3 Water Bottle</a></li>
+    <li><a href="#carrier">1.4 Pet Carrier</a></li>
+    <li><a href="#housing">1.5 Housing</a></li>
   </ul>
 </li>
-<li><a href="#Second_Point_Header">2 Second Point Header</a></li>
-<li><a href="#Third_Point_Header">3 Third Point Header</a></li>
+<li><a href="#other">2 Other Accessories</a></li>
+    <ul>
+    <li><a href="#nail-trimmers">2.1 Nail Trimmers</a></li>
+    <li><a href="#grooming-brush">2.2 Grooming Brush</a></li>
+    <li><a href="#hidey-hole">2.3 Hidey Hole</a></li>
+    <li><a href="#toys">2.4 Toys</a></li>
+    <li><a href="#tubing">2.5 Tubing for Rabbit Proofing Wires</a></li>
+    <li><a href="#area-rug">2.6 Area Rug</a></li>
+    <li><a href="#books">2.7 Books</a></li>
+  </ul>
+
 </ul>
 </div>
 
@@ -42,10 +53,13 @@ There are three main components to a domestic bunny's diet: Hay, pellets, and fr
   <tr>
     <td>One of the great features of having bunnies as pets is that they are so easy to litter train. They will naturally just start using a litter box if it is left in their space (though young ones may take a little while, they will learn this eventually). While you can use any size appropriate cat litter box for your rabbit, one of the major issues that people often run into having rabbits as pets is how messy they can be, flinging their hay and poops everywhere as they jump out of their litter box. To cut down on this considerably, consider getting a litter box with a lip on it. This will make your life much easier, keep your place looking much cleaner, and cut down on all of the sweeping up you'll have to do.</td>
     <td>Litter Box with Lip<a href="https://www.amazon.com/Catit-Cat-Litter-Pan-Taupe/dp/B008F5QANI/ref=as_li_ss_il?s=pet-supplies&ie=UTF8&qid=1543009911&sr=1-6&keywords=litter+box+with+lip&linkCode=li2&tag=tblanchard-20&linkId=10771d4544510dee0d43aac6212e2991&language=en_US" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B008F5QANI&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=tblanchard-20&language=en_US" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=tblanchard-20&language=en_US&l=li2&o=1&a=B008F5QANI" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /><a href="https://amzn.to/2DGz6IW" class="button">Find on Amazon</a> </td>
+    <tr>
+      <td>Of course, you also need bedding/litter to put in the litter box! A very typical setup is to put a layer of bedding on the bottom of the litter box, and a layer ofhay on top, as bunnies like to munch hay while they do their business. Wood pellets tend to work very well for bedding. They are cheap, and very absorbant. They will expand when liquid is added, so a small amount goes a long way. Usually I only have to use a layer that covers the bottom of the litter box.</td>
+      <td>Bedding/Litter<br><a href="https://www.amazon.com/Kaytee-Wood-Pellets-Pets-Pound/dp/B0002DK8ZM/ref=as_li_ss_il?s=pet-supplies&ie=UTF8&qid=1543010277&sr=1-6&keywords=rabbit+bedding+pellets&linkCode=li2&tag=tblanchard-20&linkId=b8e83dd2dc8a86582aacc3e447aa7156&language=en_US" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B0002DK8ZM&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=tblanchard-20&language=en_US" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=tblanchard-20&language=en_US&l=li2&o=1&a=B0002DK8ZM" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /><a href="https://amzn.to/2TEOH1p" class="button">Find on Amazon</a> </td>
   </tr>
 </table>
 
-## <a name="water-bottle"></a> Water bottle
+## <a name="water-bottle"></a> Water Bottle
 
 <table>
   <tr>
@@ -54,7 +68,7 @@ There are three main components to a domestic bunny's diet: Hay, pellets, and fr
   </tr>
   </table>
 
-## Pet carrier
+## <a name="carrier"></a> Pet Carrier
 
 <table>
   <tr>
@@ -63,7 +77,7 @@ There are three main components to a domestic bunny's diet: Hay, pellets, and fr
   </tr>
   </table>
 
-## Housing
+## <a name="housing"></a> Housing
 
 <table>
   <tr>
@@ -77,11 +91,11 @@ Exercise pens are great and can be used instead of a cage as a primary indoor li
 </table>
 
 
-# Other accessories
+# <a name="other"></a> Other Accessories
 
 The following items are things that you might not need immediately, but are good purchases for keeping your bunny happy and healthy in the long term.
 
-## Nail trimmers
+## <a name="nail-trimmers"></a> Nail Trimmers
 
 <table>
   <tr>
@@ -91,7 +105,7 @@ The following items are things that you might not need immediately, but are good
   </tr>
   </table>
 
-## Grooming Brush
+## <a name="grooming-brush"></a> Grooming Brush
 
 <table>
   <tr>
@@ -100,7 +114,7 @@ The following items are things that you might not need immediately, but are good
   </tr>
   </table>
 
-## Hidey Hole
+## <a name="hidey-hole"></a> Hidey Hole
 
 <table>
   <tr>
@@ -110,7 +124,7 @@ The following items are things that you might not need immediately, but are good
   </tr>
   </table>
 
-## Toys
+## <a name="toys"></a> Toys
 
 <table>
   <tr>
@@ -119,7 +133,7 @@ The following items are things that you might not need immediately, but are good
       </tr>
   </table>
 
-## Tubing for Rabbit Proofing Wires
+## <a name="tubing"></a> Tubing for Rabbit Proofing Wires
 
 <table>
   <tr>
@@ -128,7 +142,7 @@ The following items are things that you might not need immediately, but are good
       </tr>
   </table>
 
-## Area Rug
+## <a name="area-rug"></a> Area Rug
 
 <table>
   <tr>
@@ -138,7 +152,7 @@ The following items are things that you might not need immediately, but are good
   </table>
 
 
-## Book
+## <a name="books"></a> Books
 
 <table>
   <tr>
