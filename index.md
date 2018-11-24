@@ -31,6 +31,8 @@ title: First Bunny Starter Guide
 
 Getting a new pet bunny is an exciting event, but before you bring your new furry friend home, you should make sure you have everything you need to make them comfortable and happy. This page gives you the essentials you should make sure you have immediately, as well as some additional items you won't want to go long without. I've tried to list not only the items you need, but also a link to a suggested product on Amazon that would fit this need. I also describe what to consider when purchasing, so you can make an informed choice if you decide to go with a different product.
 
+!(/images/Herbie.jpg)
+
 # <a name="immediate-necessities"></a> The Immediate Necessities
 
 ## <a name="food"></a> Food
