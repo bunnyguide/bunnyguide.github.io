@@ -38,19 +38,6 @@ feed:
 
 permalink: /blog/:year/:title
 
-#### Responsive image stuff
-
-#srcset, sizes and dynamic media related
-image_url: /images
-amp_base: //i1.adis.ws/i/bendemo
-default_width: '1000'
-sizes: '(min-width: 1020px) 60vw, 90vw'
-
-srcset:
-  - 600
-  - 850
-  - 1200
-
 #### SEO Stuff
 # Google Analytics
 google_universal_analytics: 
