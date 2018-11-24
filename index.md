@@ -51,7 +51,7 @@ There are three main components to a domestic bunny's diet: Hay, pellets, and fr
 <table>
   <tr>
     <td>
-      ## <a name="litter-box"></a> Litter Box
+## <a name="litter-box"></a> Litter Box
       
       One of the great features of having bunnies as pets is that they are so easy to litter train. They will naturally just start using a litter box if it is left in their space (though young ones may take a little while, they will learn this eventually). While you can use any size appropriate cat litter box for your rabbit, one of the major issues that people often run into having rabbits as pets is how messy they can be, flinging their hay and poops everywhere as they jump out of their litter box. To cut down on this considerably, consider getting a litter box with a lip on it. This will make your life much easier, keep your place looking much cleaner, and cut down on all of the sweeping up you'll have to do.</td>
     <td>Litter Box with Lip<a href="https://www.amazon.com/Catit-Cat-Litter-Pan-Taupe/dp/B008F5QANI/ref=as_li_ss_il?s=pet-supplies&ie=UTF8&qid=1543009911&sr=1-6&keywords=litter+box+with+lip&linkCode=li2&tag=tblanchard-20&linkId=10771d4544510dee0d43aac6212e2991&language=en_US" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B008F5QANI&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=tblanchard-20&language=en_US" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=tblanchard-20&language=en_US&l=li2&o=1&a=B008F5QANI" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /><a href="https://amzn.to/2DGz6IW" class="button">Find on Amazon</a> </td>
