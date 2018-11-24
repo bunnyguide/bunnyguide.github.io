@@ -59,6 +59,7 @@ There are three main components to a domestic bunny's diet: Hay, pellets, and fr
   </tr>
     <tr>
       <td>
+        
       ## <a name="litter"></a> Litter
         
         Of course, you also need bedding/litter to put in the litter box! A very typical setup is to put a layer of bedding on the bottom of the litter box, and a layer ofhay on top, as bunnies like to munch hay while they do their business. Wood pellets tend to work very well for bedding. They are cheap, and very absorbant. They will expand when liquid is added, so a small amount goes a long way. Usually I only have to use a layer that covers the bottom of the litter box.</td>
