@@ -18,7 +18,7 @@ title: First Bunny Starter Guide
 <li><a href="#other">2 Other Accessories</a></li>
     <ul>
     <li><a href="#nail-trimmers">2.1 Nail Trimmers</a></li>
-    <li><a href="#grooming-brush">2.2 Grooming Brush</a></li>
+    <li><a href="#brush">2.2 Fur Brush</a></li>
     <li><a href="#hidey-hole">2.3 Hidey Hole</a></li>
     <li><a href="#toys">2.4 Toys</a></li>
     <li><a href="#tubing">2.5 Tubing for Rabbit Proofing Wires</a></li>
