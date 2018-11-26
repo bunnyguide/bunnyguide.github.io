@@ -47,6 +47,9 @@ There are three main components to a domestic bunny's diet: Hay, pellets, and fr
       
       <a href="https://amzn.to/2x5UBhF" class="button">Find on Amazon</a> </td>
   </tr>
+  </table>
+  <br>
+  <table>
   <tr>
     <td>Hay is an incredibly important part of a rabbits diet. For their entire lives, they should have unlimited access to hay. The fiber and hay keeps their digestive system flowing, and avoids G.I. stasis, a common and very serious issue in bunnies. Young rabbits less than six months old should have alfalfa hay, though you can also introduce them to other types of grass hay such as Timothy or Orchard grass. Older rabbits should not have alfalfa hay, but can have any other type of hay. For more information, check out the diet page or the hay page.</td>
     <td>Alfalfa Hay<br>
