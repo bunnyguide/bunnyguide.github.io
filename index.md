@@ -65,6 +65,9 @@ There are three main components to a domestic bunny's diet: Hay, pellets, and fr
       <a href="https://www.amazon.com/Catit-Cat-Litter-Pan-Taupe/dp/B008F5QANI/ref=as_li_ss_il?s=pet-supplies&ie=UTF8&qid=1543009911&sr=1-6&keywords=litter+box+with+lip&linkCode=li1&tag=tblanchard-20&linkId=10771d4544510dee0d43aac6212e2991&language=en_US" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B008F5QANI&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=tblanchard-20&language=en_US" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=tblanchard-20&language=en_US&l=li1&o=1&a=B008F5QANI" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /><br>
       <a href="https://amzn.to/2DGz6IW" class="button">Find on Amazon</a> </td>
   </tr>
+  </table>
+  <br>
+  <table>
     <tr>
       <td>
         <h2><a name="litter"></a> Litter</h2>        
